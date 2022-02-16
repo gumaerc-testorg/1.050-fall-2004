@@ -4,8 +4,13 @@ description: 'This resource includes exercises to develop a quadratic equation f
   the location
 
   of the neutral axis.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-050-solid-mechanics-fall-2004/ac11b3ce3699a8e1701b5e64147c97f6_class04_20.pdf
+file: /media/courses/1-050-solid-mechanics-fall-2004/ac11b3ce3699a8e1701b5e64147c97f6_class04_20.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: class04_20.pdf
 uid: ac11b3ce-3699-a8e1-701b-5e64147c97f6
