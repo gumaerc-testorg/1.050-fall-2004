@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b2807f85-9dc3-2920-f155-75bbcbd328ec
 resourcetype: Document
 title: class04_18.pdf
 uid: c402311d-0fe3-61fe-d8ce-4696a9db53de

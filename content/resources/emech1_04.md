@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 046f2c3f-662d-736c-dce5-648789e2ba0a
 resourcetype: Document
 title: emech1_04.pdf
 uid: 623a9dd0-2bb0-7d20-023e-0be994284948

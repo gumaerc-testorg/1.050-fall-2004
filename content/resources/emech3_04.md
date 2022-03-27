@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 046f2c3f-662d-736c-dce5-648789e2ba0a
 resourcetype: Document
 title: emech3_04.pdf
 uid: 5070a932-644d-2cb4-4cc9-65ac56f79c66
