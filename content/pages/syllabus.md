@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains course objectives and list of materials for the
+  course, along with the grading criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -25,7 +27,7 @@ The aim is to introduce students to the fundamental concepts and principles appl
 Textbook
 --------
 
-Bucciarelli, Louis. [_Engineering Mechanics for Structures_](http://store.doverpublications.com/0486468550.html), Fall 2002. (The full text is published in the [readings section]({{< baseurl >}}/pages/readings).)
+Bucciarelli, Louis. [_Engineering Mechanics for Structures_](http://store.doverpublications.com/0486468550.html), Fall 2002. (The full text is published in the {{% resource_link 046f2c3f-662d-736c-dce5-648789e2ba0a "readings section" %}}.)
 
 Also required: Mead Quad Composition notebook.
 

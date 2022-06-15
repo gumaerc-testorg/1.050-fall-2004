@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section offers required textbook i.e. Engineering Mechanics for
+  Structures, written by Professor Louis Bucciarelli in 2002 and contains links to
+  full text versions of the book chapters.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -12,16 +15,16 @@ This course's required textbook is [_Engineering Mechanics for Structures_](http
 Book Chapters
 -------------
 
-*   Chapter 1 - Introduction ([PDF]({{< baseurl >}}/resources/emech1_04))
-*   Chapter 2 - Static Equilibrium Force and Moment ([PDF]({{< baseurl >}}/resources/emech2_04))
-*   Chapter 3 - Internal Forces and Moments ([PDF]({{< baseurl >}}/resources/emech3_04))
-*   Chapter 4 - Stress ([PDF]({{< baseurl >}}/resources/emech4_04))
-*   Chapter 5 - Indeterminate Systems ([PDF]({{< baseurl >}}/resources/emech5_04))
-*   Chapter 6 - Strain ([PDF]({{< baseurl >}}/resources/emech6_04))
-*   Chapter 7 - Material Properties and Failure Phenomena ([PDF]({{< baseurl >}}/resources/emech7_04))
-*   Chapter 8 - Stresses/Deflections Shafts in Torsion ([PDF]({{< baseurl >}}/resources/emech8_04))
-*   Chapter 9 - Stresses: Beams in Bending ([PDF]({{< baseurl >}}/resources/emech9_04))
-*   Chapter 10 - Deflections Due to Bending ([PDF]({{< baseurl >}}/resources/emech10_04))
+*   Chapter 1 - Introduction ({{% resource_link 623a9dd0-2bb0-7d20-023e-0be994284948 "PDF" %}})
+*   Chapter 2 - Static Equilibrium Force and Moment ({{% resource_link 4a78b766-8ad9-6154-9681-ce0e42f95b66 "PDF" %}})
+*   Chapter 3 - Internal Forces and Moments ({{% resource_link 5070a932-644d-2cb4-4cc9-65ac56f79c66 "PDF" %}})
+*   Chapter 4 - Stress ({{% resource_link f21a50dd-95f3-0e93-ea74-df4d430b9423 "PDF" %}})
+*   Chapter 5 - Indeterminate Systems ({{% resource_link d9fdb161-4653-b59f-cfc8-088da0c3b354 "PDF" %}})
+*   Chapter 6 - Strain ({{% resource_link 221c2037-93f3-8add-d95e-922cbf2aaa7e "PDF" %}})
+*   Chapter 7 - Material Properties and Failure Phenomena ({{% resource_link 9f43eb70-b869-1702-02fc-c4db3177d048 "PDF" %}})
+*   Chapter 8 - Stresses/Deflections Shafts in Torsion ({{% resource_link 8c30fdf1-5d9d-50c0-2f42-15903c847d7f "PDF" %}})
+*   Chapter 9 - Stresses: Beams in Bending ({{% resource_link 8f0200f4-ca32-3638-3a2e-f048c7ec4c40 "PDF" %}})
+*   Chapter 10 - Deflections Due to Bending ({{% resource_link f9a4d576-4b9b-0f51-ffaa-cbdf69f7aed8 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}

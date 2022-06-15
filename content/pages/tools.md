@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides direct links to all of the interactive exercises
+  referenced within the text and real data relevant to the course's main concepts,
+  such as "Trussworks," a matrix analysis tool for truss structures, "Frameworks,"
+  a similar tool for frame structures, and "Steel Sections," a database of steel beam
+  sections.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
