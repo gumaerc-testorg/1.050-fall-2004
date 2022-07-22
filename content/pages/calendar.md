@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Information on the course schedule.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 1281b4b8-4a36-0b03-b3af-1d73a77f3c64
 ---
@@ -26,7 +29,7 @@ labs
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -65,7 +68,7 @@ Concept of Force
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Week 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -128,7 +131,7 @@ Truss Structures
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Week 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -191,7 +194,7 @@ Lec 8
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Week 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -254,7 +257,7 @@ Concept of Stress
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Week 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -317,7 +320,7 @@ Quiz 1
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -356,7 +359,7 @@ Lec 15
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Week 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -419,7 +422,7 @@ Strain Component Transformation
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Week 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -482,7 +485,7 @@ Stress / Deflections Shafts in Torsion
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Week 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -546,7 +549,7 @@ Shear Stresses in Beams
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -585,7 +588,7 @@ Stresses in Composite Beams
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Week 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -648,7 +651,7 @@ Lec 29
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 12
 {{< tdclose >}}
 {{< tdopen >}}
@@ -687,7 +690,7 @@ Lec 31
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Week 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -738,7 +741,7 @@ Buckling (cont.)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 14
 {{< tdclose >}}
 {{< tdopen >}}
