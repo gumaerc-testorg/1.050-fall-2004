@@ -5,6 +5,7 @@ file: /courses/1-050-solid-mechanics-fall-2004/7a23f69ed1a24be3a525387f73f26b1f_
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset04_7soln.pdf
 uid: 7a23f69e-d1a2-4be3-a525-387f73f26b1f
 ---
 This resource includes solutions to problem statement 7.
-

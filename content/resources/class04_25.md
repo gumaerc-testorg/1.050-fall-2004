@@ -6,6 +6,7 @@ file: /courses/1-050-solid-mechanics-fall-2004/7fc62dedba5eb7648dc10839bf742c1b_
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: class04_25.pdf
 uid: 7fc62ded-ba5e-b764-8dc1-0839bf742c1b
 ---
 This resource includes a collection of six problems drawn from past years? final exams.
-

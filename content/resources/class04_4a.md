@@ -5,6 +5,7 @@ file: /courses/1-050-solid-mechanics-fall-2004/e2fc0b5767e643f21209d818350815aa_
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: class04_4a.pdf
 uid: e2fc0b57-67e6-43f2-1209-d818350815aa
 ---
 This resource includes static equilibrium analysis of opening the umbrella.
-

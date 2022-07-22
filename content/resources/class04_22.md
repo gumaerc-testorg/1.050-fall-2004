@@ -8,6 +8,7 @@ file: /courses/1-050-solid-mechanics-fall-2004/5db441dfb0ab46bcfdf388d12a43b3a6_
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 5db441df-b0ab-46bc-fdf3-88d12a43b3a6
 ---
 This resource includes exercises to find the reactions at the three supports for the
 uniformly loaded beam.
-

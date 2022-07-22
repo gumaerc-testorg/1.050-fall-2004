@@ -5,6 +5,7 @@ file: /courses/1-050-solid-mechanics-fall-2004/4f5257ebaa1fd396e634054f5cee114e_
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset04_4.pdf
 uid: 4f5257eb-aa1f-d396-e634-054f5cee114e
 ---
 This resource includes a set of four problem statements.
-
