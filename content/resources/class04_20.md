@@ -5,6 +5,7 @@ description: 'This resource includes exercises to develop a quadratic equation f
 
   of the neutral axis.'
 file: /courses/1-050-solid-mechanics-fall-2004/ac11b3ce3699a8e1701b5e64147c97f6_class04_20.pdf
+file_size: 17252
 file_type: application/pdf
 learning_resource_types:
 - Assignments
