@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes solutions to problem statement 5.
 file: /courses/1-050-solid-mechanics-fall-2004/eae45018d731087302c441bcd4474447_pset04_5soln.pdf
+file_size: 110687
 file_type: application/pdf
 learning_resource_types:
 - Assignments

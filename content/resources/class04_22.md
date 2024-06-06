@@ -5,6 +5,7 @@ description: 'This resource includes exercises to find the reactions at the thre
 
   uniformly loaded beam.'
 file: /courses/1-050-solid-mechanics-fall-2004/5db441dfb0ab46bcfdf388d12a43b3a6_class04_22.pdf
+file_size: 17008
 file_type: application/pdf
 learning_resource_types:
 - Assignments
