@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes a collection of six problems drawn from past years?
   final exams.
 file: /courses/1-050-solid-mechanics-fall-2004/7fc62dedba5eb7648dc10839bf742c1b_class04_25.pdf
+file_size: 50455
 file_type: application/pdf
 learning_resource_types:
 - Assignments
