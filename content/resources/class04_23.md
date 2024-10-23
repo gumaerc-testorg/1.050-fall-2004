@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource explains how to find the reactions at the wall and the
   stiffness matrix.
-file: /courses/1-050-solid-mechanics-fall-2004/0d89665d895275401bfd19b2ae6df187_class04_23.pdf
+file: /ol-ocw-studio-app/courses/1-050-solid-mechanics-fall-2004/0d89665d895275401bfd19b2ae6df187_class04_23.pdf
 file_size: 15781
 file_type: application/pdf
 learning_resource_types:

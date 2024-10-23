@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes a gallary of six problems drawn from past years?
   final exams.
-file: /courses/1-050-solid-mechanics-fall-2004/b6bc9ae14f37e666230e6a845a60e97c_class04_24.pdf
+file: /ol-ocw-studio-app/courses/1-050-solid-mechanics-fall-2004/b6bc9ae14f37e666230e6a845a60e97c_class04_24.pdf
 file_size: 47023
 file_type: application/pdf
 learning_resource_types:
