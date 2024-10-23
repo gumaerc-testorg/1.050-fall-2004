@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on concept of force, concept of moment,
   and problems.
-file: /courses/1-050-solid-mechanics-fall-2004/4a78b7668ad961549681ce0e42f95b66_emech2_04.pdf
+file: /ol-ocw-studio-app/courses/1-050-solid-mechanics-fall-2004/4a78b7668ad961549681ce0e42f95b66_emech2_04.pdf
 file_size: 376074
 file_type: application/pdf
 learning_resource_types:

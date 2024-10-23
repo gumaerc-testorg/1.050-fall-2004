@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes some reflections on Design Exercise 1, a non-linear
   scale for weighing baggage.
-file: /courses/1-050-solid-mechanics-fall-2004/e932d41ffa30ba5ac492f2d178fb4f1d_reflectionsde041.pdf
+file: /ol-ocw-studio-app/courses/1-050-solid-mechanics-fall-2004/e932d41ffa30ba5ac492f2d178fb4f1d_reflectionsde041.pdf
 file_size: 20152
 file_type: application/pdf
 learning_resource_types:

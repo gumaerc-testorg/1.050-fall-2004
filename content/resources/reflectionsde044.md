@@ -6,7 +6,7 @@ description: 'This resource includes exercise to size the
   a
 
   minimum.'
-file: /courses/1-050-solid-mechanics-fall-2004/349df0abcb29537907aa5e1cc99ab85e_reflectionsde044.pdf
+file: /ol-ocw-studio-app/courses/1-050-solid-mechanics-fall-2004/349df0abcb29537907aa5e1cc99ab85e_reflectionsde044.pdf
 file_size: 31866
 file_type: application/pdf
 learning_resource_types:
