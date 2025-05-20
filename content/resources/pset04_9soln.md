@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes solutions to problem statement 9.
-file: /ol-ocw-studio-app/courses/1-050-solid-mechanics-fall-2004/8cfc74f7415b2b105c5f5149e6a42f19_pset04_9soln.pdf
+file: /courses/1-050-solid-mechanics-fall-2004/8cfc74f7415b2b105c5f5149e6a42f19_pset04_9soln.pdf
 file_size: 71793
 file_type: application/pdf
 learning_resource_types:
