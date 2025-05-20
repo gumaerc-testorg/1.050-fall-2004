@@ -4,7 +4,7 @@ description: 'This resource includes exercises to estimate the shear stress acti
   at the intersection of the flange and
 
   the web.'
-file: /ol-ocw-studio-app/courses/1-050-solid-mechanics-fall-2004/c402311d0fe361fed8ce4696a9db53de_class04_18.pdf
+file: /courses/1-050-solid-mechanics-fall-2004/c402311d0fe361fed8ce4696a9db53de_class04_18.pdf
 file_size: 16480
 file_type: application/pdf
 learning_resource_types:

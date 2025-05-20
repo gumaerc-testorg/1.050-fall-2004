@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes exercises to deduce, from the geometry, an expression
   which will allow to compute the length.
-file: /ol-ocw-studio-app/courses/1-050-solid-mechanics-fall-2004/4e04697a8e05161f79ea4f6a1804b717_class04_7.pdf
+file: /courses/1-050-solid-mechanics-fall-2004/4e04697a8e05161f79ea4f6a1804b717_class04_7.pdf
 file_size: 17576
 file_type: application/pdf
 learning_resource_types:
