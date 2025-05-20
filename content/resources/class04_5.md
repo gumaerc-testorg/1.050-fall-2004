@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes exercises to write out the two requirements on
   the member forces in order for the point to be in static equilibrium.
-file: /ol-ocw-studio-app/courses/1-050-solid-mechanics-fall-2004/a279dd96f3e6de2514e6cd0a32517d03_class04_5.pdf
+file: /courses/1-050-solid-mechanics-fall-2004/a279dd96f3e6de2514e6cd0a32517d03_class04_5.pdf
 file_size: 16347
 file_type: application/pdf
 learning_resource_types:

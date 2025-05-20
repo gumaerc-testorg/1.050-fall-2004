@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes static equilibrium analysis of opening the umbrella.
-file: /ol-ocw-studio-app/courses/1-050-solid-mechanics-fall-2004/e2fc0b5767e643f21209d818350815aa_class04_4a.pdf
+file: /courses/1-050-solid-mechanics-fall-2004/e2fc0b5767e643f21209d818350815aa_class04_4a.pdf
 file_size: 36907
 file_type: application/pdf
 learning_resource_types:

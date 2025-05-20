@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes a set of four problem statements.
-file: /ol-ocw-studio-app/courses/1-050-solid-mechanics-fall-2004/4f5257ebaa1fd396e634054f5cee114e_pset04_4.pdf
+file: /courses/1-050-solid-mechanics-fall-2004/4f5257ebaa1fd396e634054f5cee114e_pset04_4.pdf
 file_size: 24387
 file_type: application/pdf
 learning_resource_types:
