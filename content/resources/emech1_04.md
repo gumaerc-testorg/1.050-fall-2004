@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information on what the book is about, what
   it contains, and resources that might be used.
-file: /courses/1-050-solid-mechanics-fall-2004/623a9dd02bb07d20023e0be994284948_emech1_04.pdf
+file: /ol-ocw-studio-app/courses/1-050-solid-mechanics-fall-2004/623a9dd02bb07d20023e0be994284948_emech1_04.pdf
 file_size: 77628
 file_type: application/pdf
 learning_resource_types:
