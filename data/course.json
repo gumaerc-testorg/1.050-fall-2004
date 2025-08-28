@@ -44,12 +44,12 @@
   },
   "learning_resource_types": [
     "Simulations",
-    "Course Introduction",
     "Activity Assignments",
     "Problem Sets with Solutions",
     "Design Assignments"
   ],
   "site_uid": "5dbbf4a0-459a-4345-bff0-675c44708642",
   "site_short_id": "1.050-fall-2004",
+  "site_url_path": "courses/1-050-solid-mechanics-fall-2004",
   "title": "Course Metadata"
 }
