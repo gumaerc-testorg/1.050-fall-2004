@@ -27,7 +27,7 @@ The aim is to introduce students to the fundamental concepts and principles appl
 Textbook
 --------
 
-Bucciarelli, Louis. [_Engineering Mechanics for Structures_](http://store.doverpublications.com/0486468550.html), Fall 2002. (The full text is published in the {{% resource_link 046f2c3f-662d-736c-dce5-648789e2ba0a "readings section" %}}.)
+Bucciarelli, Louis. {{% resource_link "f004c3ba-e141-4ac4-9a20-46834b54fa2c" "_Engineering Mechanics for Structures_" %}}, Fall 2002. (The full text is published in the {{% resource_link 046f2c3f-662d-736c-dce5-648789e2ba0a "readings section" %}}.)
 
 Also required: Mead Quad Composition notebook.
 
